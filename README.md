@@ -76,14 +76,19 @@ I stopped drinking tea since yesterday ☕
 
 ## 🛠️ 𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼𝕊 𝔸ℕ𝔻 𝕋𝕆𝕆𝕃𝕊
 <p>
-
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=python" />
+   &nbsp; 
+<img src="https://skillicons.dev/icons?i=c" />
+   &nbsp; 
+<img src="https://skillicons.dev/icons?i=cpp" />
+   &nbsp; 
+<img src="https://skillicons.dev/icons?i=html" />
+   &nbsp; 
+<img src="https://skillicons.dev/icons?i=css" />
+   &nbsp; 
+<img src="https://skillicons.dev/icons?i=js" />
+   &nbsp; 
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 </p>
 
