@@ -103,6 +103,12 @@
 <img src= "https://skillicons.dev/icons?i=vscode" />
    &nbsp;
 
+<img src= "https://skillicons.dev/icons?i=replit" />
+   &nbsp;
+
+<img src= "https://skillicons.dev/icons?i=notion" />
+   &nbsp;
+
 
 
 
