@@ -89,6 +89,23 @@ I stopped drinking tea since yesterday ☕
 <img src="https://skillicons.dev/icons?i=js" />
    &nbsp; 
 <img src="https://skillicons.dev/icons?i=mysql" />
+   &nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+   &nbsp; 
+<img src= "https://skillicons.dev/icons?i=vercel" />
+   &nbsp;
+<img src= "https://skillicons.dev/icons?i=netlify" />
+   &nbsp;
+<img src= "https://skillicons.dev/icons?i=git" />
+   &nbsp;
+<img src= "https://skillicons.dev/icons?i=github" />
+   &nbsp;
+<img src= "https://skillicons.dev/icons?i=vscode" />
+   &nbsp;
+
+
+
+
 
 </p>
 
