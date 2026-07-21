@@ -20,7 +20,7 @@
 ## 🌐 ℂ𝕆ℕℕ𝔼ℂ𝕋 𝕎𝕀𝕋ℍ 𝕄𝔼
 <p align="center">
 
-<a href="https://linkedin.com/in/pawansinghofficial" target="_blank">
+<a href="https://linkedin.com/in/pawansinghmahori" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -46,12 +46,12 @@
 </p>
 
 ## 📫 ℂ𝕆ℕ𝕋𝔸ℂ𝕋
-📧 **pawansinghmahroi@gmail.com**
+📧 **pawansinghmahori@gmail.com**
 
 ---
 
 ## ⚡𝔽𝕌ℕ 𝔽𝔸ℂ𝕋
-I stopped drinking tea since yesterday ☕
+**I stopped drinking tea since yesterday** ☕
 
 </td>
 
