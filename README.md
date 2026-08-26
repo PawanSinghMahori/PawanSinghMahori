@@ -51,7 +51,11 @@
 ---
 
 ## ⚡𝔽𝕌ℕ 𝔽𝔸ℂ𝕋
-**I stopped drinking tea since yesterday** ☕
+**I stopped drinking Tea since yesterday** ☕
+
+## 🏆 ℍ𝕀𝔾ℍ𝕃𝕀𝔾ℍ𝕋𝕊
+- Hackathon finalist (10+) 
+- Constantly improving dev & problem-solving skills
 
 </td>
 
@@ -115,12 +119,6 @@
 </p>
 
 ---
-
-
-
-## 🏆 ℍ𝕀𝔾ℍ𝕃𝕀𝔾ℍ𝕋𝕊
-- Hackathon finalist (10+) 
-- Constantly improving dev & problem-solving skills
 
   
 
