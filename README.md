@@ -102,13 +102,14 @@
    &nbsp;
 <img src= "https://skillicons.dev/icons?i=vscode" />
    &nbsp;
-
 <img src= "https://skillicons.dev/icons?i=replit" />
    &nbsp;
-
 <img src= "https://skillicons.dev/icons?i=notion" />
    &nbsp;
-
+<img src="https://skillicons.dev/icons?i=nodejs" />
+   &nbsp; 
+<img src="https://skillicons.dev/icons?i=react" />
+   &nbsp; 
 
 
 
