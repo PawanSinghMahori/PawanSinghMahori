@@ -122,8 +122,7 @@
 
   
 
-## 📊 𝔾𝕀𝕋𝕌𝔹 𝕊𝕋𝔸𝕋𝕊
-
+## 📊 𝔽𝔼𝔼𝔻𝕀ℕ𝔾 𝕊ℕ𝔸𝕂𝔼
 <!-- Snake Animation -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
